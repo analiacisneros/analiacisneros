@@ -27,7 +27,7 @@
 
 - 💻 Soy estudiante de Ing. en Sistemas 
 - 🌸 Mi objetivo 2021: Poder formar parte de un equipo donde podamos crecer juntos.
-- 🍰 Hobbie: Me gusta cocinar, el mejor anti estres
+- 🍰 Hobbie: Me gusta cocinar, el mejor antiestrés
 - 🐶😸 Amo los perritos y gatitos 
 <br>
 ----
