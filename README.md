@@ -21,12 +21,12 @@
 </p>
 
 
-## I'm a Student!!
+## Un poco de mi:
 
-- 🌱 I’m currently learning Blockchain
-- 👯 I’m looking to contribute to open source
-- 🥅 2021 Goals: Contribute more to Open Source projects and learn as much as I can
-- ⚡ Fun fact: I love to play games
+- 💻 Soy estudiante de Ing. en Sistemas 
+- 🌸 Mi objetivo 2021: Poder formar parte de un equipo donde podamos creceer juntos.
+- 🍰 Hobbie: Me gusta cocinar, el mejor anti estres
+- 🐶😸 Amo los perritos y gatitos 
 <br>
 ----
 <br>
