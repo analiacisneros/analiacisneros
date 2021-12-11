@@ -53,8 +53,8 @@
  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />   
     
    
-    
-   
+    <br>
+   [![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=envoy-vc&layout=compact)](https://github.com/Envoy-VC/Envoy-VC)
   
 
       
