@@ -25,10 +25,10 @@
 
 ## Un poco de mi:
 
-- 💻 Soy estudiante de Ing. en Sistemas 
-- 🌸 Mi objetivo 2022: Poder formar parte de un equipo donde pueda crecer junto a ellos.
-- 🍰 Hobbie: Me gusta cocinar, el mejor antiestrés
-- 🐶😸 Amo los perritos y gatitos 
+- 💻 Soy estudiante de Lic. en Sistemas 
+
+
+
 <br>
     Perfil de CoderByte: https://coderbyte.com/profile/analiacisneros
     <br>
